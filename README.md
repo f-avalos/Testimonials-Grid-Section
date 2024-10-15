@@ -32,7 +32,7 @@ Se utilizó ```display: grid``` para ordenar cada tarjeta y establecer el tamañ
 
 ### Links
 
-- Sitio: [-](#)
+- Sitio: [Sección de testimonios](https://f-avalos.github.io/Testimonials-Grid-Section/)
 
 ## Proceso
 
